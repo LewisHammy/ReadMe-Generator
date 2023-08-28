@@ -9,7 +9,7 @@ inquirer
     {
       type: 'input',
       name: 'title',
-      message: 'Enter the project title:',
+      message: 'Enter title:',
     },
     // Description
     {
